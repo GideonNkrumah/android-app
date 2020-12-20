@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
     xmlns:tools="http://schemas.android.com/tools"
+    android:installLocation="auto"
     package="com.github.doomsdayrs.apps.shosetsu">
 
     <dist:module dist:instant="true" />
